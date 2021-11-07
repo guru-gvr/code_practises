@@ -1,4 +1,4 @@
-package guru.learning.arrays.problems;
+package main.java.guru.learning.arrays.problems;
 
 import java.io.BufferedReader;
 import java.io.IOException;

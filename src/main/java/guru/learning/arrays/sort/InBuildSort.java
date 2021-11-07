@@ -1,4 +1,4 @@
-package guru.learning.arrays.sort;
+package main.java.guru.learning.arrays.sort;
 
 import java.util.Arrays;
 
