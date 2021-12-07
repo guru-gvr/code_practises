@@ -1,4 +1,4 @@
-package main.java.guru.learnig.linkedlist.problems;
+package main.java.guru.learning.linkedlist.problems;
 
 public class Node {
 
