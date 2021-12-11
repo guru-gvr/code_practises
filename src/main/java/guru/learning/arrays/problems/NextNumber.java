@@ -14,12 +14,7 @@ public class NextNumber {
 
 	private static int[] findNext(int[] array) {
 		int[] nArray;
-//		if(array[array.length -1] == 9) {
 		nArray = new int[array.length + 1];
-//		}else {
-		// nArray = new int[array.length ];
-		// }
-
 		int l = nArray.length - 1;
 		for (int i = array.length - 1; i >= 0; i--) {
 			if (array[i] < 9) {
@@ -35,29 +30,12 @@ public class NextNumber {
 			}
 
 		}
-
 		return nArray;
 	}
-
 	private static void copyRemaining(int[] nArray, int[] array, int index) {
 
 		for (int i = 0; i < index; i++) {
 			nArray[i] = array[i];
 		}
 	}
-
-//	private static int recur(int[] array) {
-//		if(array.length == 1) {
-//			if(array[0] > 9) {
-//				return array[0]+1;
-//			}else {
-//				return 0;
-//			}
-//		}else {
-//			return(Arrays.copyOf(array, 0))
-//		}
-//		return 0;
-//		
-//	}
-
 }
