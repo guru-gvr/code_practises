@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic_spring_trans/basic_spring_trans.iml" filepath="$PROJECT_DIR$/basic_spring_trans/basic_spring_trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics_Linked_List/basics_Linked_List.iml" filepath="$PROJECT_DIR$/basics_Linked_List/basics_Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_practises.iml" filepath="$PROJECT_DIR$/code_practises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files_IO/files_IO.iml" filepath="$PROJECT_DIR$/files_IO/files_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa_basics/jpa_basics.iml" filepath="$PROJECT_DIR$/jpa_basics/jpa_basics.iml" />
+    </modules>
+  </component>
+</project>
